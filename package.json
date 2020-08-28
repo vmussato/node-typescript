@@ -1,0 +1,24 @@
+{
+  "name": "typescript-node-api",
+  "version": "1.0.0",
+  "description": "typescript node api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmussato/node-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "api"
+  ],
+  "author": "vmussato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmussato/node-typescript/issues"
+  },
+  "homepage": "https://github.com/vmussato/node-typescript#readme"
+}
